@@ -3,7 +3,7 @@
 This project provides a step-by-step guide on implementing Google Cloud Platform (GCP) Identity Platform for email and password authentication within a React JS application.
 GCP Identity Platform offers a robust authentication solution that supports various identity providers, including email and password authentication.
 
-### check ./src/Login.js component to view implementation code
+### check src/Login.js component to view implementation code
 
 # Prerequisites
 
