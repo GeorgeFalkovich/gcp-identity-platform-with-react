@@ -36,8 +36,6 @@ Follow these steps to integrate GCP Identity Platform for email and password aut
 
 - Copy api key and authDomain creadentials from Identity Platform console.
 
-### Integrate Identity Platform SDK:
-
 ### Import and configure Identity Platform SDK in your React JS application.
 
 Utilize provided components and methods for email and password authentication.
